@@ -4,7 +4,7 @@ spring:
   application:
     name: tensquare-base
   datasource:
-    url: jdbc:mysql://192.168.1.103:3306/tensquare_base?useSSL=false&serverTimezone=GMT&characterEncoding=utf-8
+    url: jdbc:mysql://127.0.0.1:3306/tensquare_base?useSSL=false&serverTimezone=GMT&characterEncoding=utf-8
     username: root
     password: root
   jpa:
